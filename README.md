@@ -26,6 +26,11 @@ This will produce 3 images per State (States with less than 10 cases are not sho
 
 <img src="./images/Observed_Predicted_New_Cases_Control_Rtarget_Uttar Pradesh.png" >
 
+## Other States
+
+Images for all other States with more than 10 cases are in folder [images](https://github.com/mansueto-institute/Rt_Indian_States_COVID/tree/master/images)
+
+
 
 ## Issues:
 
